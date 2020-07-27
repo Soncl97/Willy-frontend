@@ -29,3 +29,5 @@ Pilly 맞춤영양제 [필리 공식 홈페이지](https://pilly.kr/) clone proj
 - 회원별 장바구니 등록 및 목록 가져오기
 - 마이 페이지
 - 백엔드 API 이용
+- Git merge로 conflict 해결
+- 트렐로로 서로간의 업무 파악 및 Scrum방식으로 프로젝트 진행
